@@ -13,7 +13,7 @@ import javax.servlet.ServletRegistration;
 /**
  * Created by newman on 08.02.2016.
  */
-public class AppInitializer implements WebApplicationInitializer {
+public class ApplicationInitializer implements WebApplicationInitializer {
 
     private static final String DISPATCHER = "dispatcher";
 //    private static final String DISPATCHER = "default";
